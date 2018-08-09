@@ -32,9 +32,9 @@ def main():
 
     # display result
     if check == False:
-        print('So Stronk')
+        print('Strong Password')
     else:
-        print("Little baby password doesn't match up small son")
+        print("Weak password, please try again.")
 
     return
 
